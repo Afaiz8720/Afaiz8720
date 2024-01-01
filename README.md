@@ -1,4 +1,4 @@
-
+![header](https://github.com/Afaiz8720/Afaiz8720/blob/main/afaiz.png)
 <h1 align="center">Hi 👋, I'm Afaiz8720</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/hacker-you-have-been-hacked-snt8b8zv3tqqm8xa.gif">
